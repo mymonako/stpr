@@ -2,16 +2,19 @@
   {
     "Username": "STPR_eea13334",
     "license-date": "01-01-2099",
-    "banned": false
+    "banned": false,
+    "_": "monako",
   },
   {
     "Username": "",
     "license-date": "01-01-2023",
-    "banned": false
+    "banned": false,
+    "_": "Yigit - primatlardankorkuyorum"
   },
   {
     "Username": "",
     "license-date": "01-01-2023",
-    "banned": true
+    "banned": true,
+    "_": ""
   }
 ]
